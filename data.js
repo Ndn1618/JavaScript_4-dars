@@ -1,0 +1,26 @@
+const data = [
+  { id: 01, username: 'p_mathematics', firstName: 'Muhammadxon', lastName: 'Najimov', gender: 'male', age: 25 },
+  { id: 02, username: 'muhammadjavohirbek', firstName: 'Muhammadjavohir', lastName: 'Sur\'atov', gender: 'male', age: 26 },
+  { id: 1, username: 'harun', firstName: 'Harun', lastName: 'Najimov', gender: 'male', age: 45 },
+  { id: 2, username: 'roseprincess', firstName: 'Dilbar', lastName: 'Norqobulova', gender: 'female', age: 19 },
+  { id: 3, username: 'jakenkhar', firstName: 'Temur', lastName: 'Asadov', gender: 'male', age: 30 },
+  { id: 4, username: 'nln', firstName: 'Lobar', lastName: 'Norqobulova', gender: 'female', age: 22 },
+  { id: 5, username: 'ziyoda', firstName: 'Ziyoda', lastName: 'Norqobulova', gender: 'female', age: 15 },
+  { id: 6, username: 'rainwanted', firstName: 'Mahfuza', lastName: 'Inomova', gender: 'female', age: 19 },
+  { id: 7, username: 'fazilat', firstName: 'Fazilat', lastName: 'Lutfullayeva', gender: 'female', age: 19 },
+  { id: 8, username: 'saidakbar', firstName: 'Saidakbar', lastName: 'Saidaliyev', gender: 'male', age: 7 },
+  { id: 9, username: 'ibragim', firstName: 'Ibrohim', lastName: 'Saidaliyev', gender: 'male', age: 43 },
+  { id: 10, username: 'ilyos', firstName: 'Ilyos', lastName: 'Saidaliyev', gender: 'male', age: 65 },
+  { id: 11, username: 'xojakbar', firstName: 'Xojakbar', lastName: 'Jo\'rayev', gender: 'male', age: 18 },
+  { id: 12, username: 'khushi', firstName: 'Khushi', lastName: 'Singh Reyzada', gender: 'female', age: 25 },
+  { id: 13, username: 'arnav', firstName: 'Arnav', lastName: 'Singh Reyzada', gender: 'male', age: 24 },
+  { id: 14, username: 'bigboss', firstName: 'Yu', lastName: 'Si Jin', gender: 'male', age: 30 },
+  { id: 15, username: 'beauty', firstName: 'Kan', lastName: 'Mo Yon', gender: 'female', age: 32 },
+  { id: 16, username: 'abdulloh', firstName: 'Abdulloh', lastName: 'Muhammadaminov', gender: 'male', age: 18 },
+  { id: 17, username: 'malika', firstName: 'Malika', lastName: 'Baxtiyorova', gender: 'female', age: 18 },
+  { id: 18, username: 'dora', firstName: 'Dildora', lastName: 'Yo\'ldoshova', gender: 'female', age: 18 },
+  { id: 19, username: 'dilorom', firstName: 'Dilorom', lastName: 'Sodiqova', gender: 'female', age: 18 },
+  { id: 20, username: 'maftuna', firstName: 'Maftuna', lastName: 'Nuriddinova', gender: 'female', age: 18 },
+]
+
+module.exports = data
